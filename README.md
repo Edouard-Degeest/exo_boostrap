@@ -1,3 +1,3 @@
 # exo_boostrap
 
-Pour l'onglet Contact sur mon sit il faut une vm.
+Pour l'onglet Contact sur mon site il faut une vm.
